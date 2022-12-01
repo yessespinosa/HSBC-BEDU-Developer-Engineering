@@ -25,4 +25,9 @@
 - Java intermedio
 - Fundamentos de Angular
 
+Inicio: 5 nov 22
+Fin: 10 feb 23
+
+
+
 
