@@ -10,3 +10,5 @@
 - Analizar los niveles del software testing y en qué momento del desarrollo de software aplica cada uno, a fin de crear un proyecto de software de acuerdo a cada uno de los niveles del testing.
 - Desarrollar pruebas en código ya existente para comprender cómo realizar pruebas a nivel componente e integración.
 - Reconocer cómo diseñar pruebas conducidas por software para entender cuáles son sus ventajas comparado con el desarrollo tradicional.
+
+### [Postwork](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/03.%20Niveles%20de%20software%20testing/Postwork.md)
