@@ -1,4 +1,4 @@
-## Módulo: Java Backend I
+## Módulo 2: Java Backend I
 
 # Objetivo 
 
