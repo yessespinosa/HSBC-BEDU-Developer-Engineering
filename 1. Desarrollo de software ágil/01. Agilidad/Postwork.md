@@ -30,6 +30,8 @@ Procurar reutilización de código
 ##### ¿Cómo puedo empezar a usar un tablero Kanban para eficientar los procesos de mi equipo de trabajo?
 Podemos manejar un tablero virtual en el que se vayan colocando las actividades a realizar, las actividades que se están haciendo y las que ya están terminadas, además de los módulos ya probados y autorizados por el cliente. 
 
+[Se tiene aquí un ejemplo sencillo de implementación Kanban:](https://github.com/users/yessespinosa/projects/2)
+
 Checklist
 Asegúrate que tu postwork contenga todo lo siguiente, ya que esto se evaluará al término del módulo.
 Requisito	Sí lo cumple	No lo cumple
