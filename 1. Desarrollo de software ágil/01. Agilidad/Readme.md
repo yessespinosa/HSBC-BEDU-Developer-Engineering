@@ -8,3 +8,5 @@
 - Reconocer los principios Lean para la eliminación de desperdicios.
 - Identificar los elementos que integran el desarrollo adaptativo de software.
 - Describir los principios y prácticas Kanban.
+- Conocer los valores y principios del manifiesto agil y el método de trabajo Kanban así como sus principios, herramientas y métricas para incorporarlos en la gestión de proyectos.
+- Definir un proyecto que gestiones actualmente para determinar qué prácticas ágiles pueden usarse para gestionarlo.
