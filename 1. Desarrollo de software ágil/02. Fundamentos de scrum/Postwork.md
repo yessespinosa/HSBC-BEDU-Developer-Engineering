@@ -39,14 +39,3 @@
 | Organización	| Buena coordinación |
 | Calidad	| De la mano del compromiso |
 | Cambio	| Se va procurando tener un avance adaptable |
-	
-Asegúrate que tu postwork contenga todo lo siguiente, ya que esto se evaluará al término del módulo.
-| Requisito |	Sí lo cumple |	No lo cumple |
-| a. Elementos del marco de trabajo a implementar |	
-| b. Lista de valores de Scrum que identificas en tu equipo	|	
-| c. Listado de principios y aspectos de Scrum que identificas en tu proyecto	|		
-
-		
-		
-		
-	
