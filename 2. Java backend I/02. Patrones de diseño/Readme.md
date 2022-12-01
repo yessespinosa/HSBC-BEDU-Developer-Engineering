@@ -16,4 +16,4 @@ Los patrones pueden clasificarse por su propósito. Revisamos tres grupos genera
 
 El siguiente es el código del ejemplo revisado en clase de patrón de diseño de comportamiento: 
 
-[Work] (https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/2.%20Java%20backend%20I/02.%20Patrones%20de%20dise%C3%B1o/Work)
+[Work] [https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/2.%20Java%20backend%20I/02.%20Patrones%20de%20dise%C3%B1o/Work]
