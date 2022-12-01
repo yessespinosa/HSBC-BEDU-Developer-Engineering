@@ -20,9 +20,9 @@
 
 # Módulos 
 
-[Desarrollo de software ágil](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/1.%20Desarrollo%20de%20software%20%C3%A1gil)
-[Java BE Básico](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/2.%20Java%20backend%20I)
-[Java intermedio]
-[Fundamentos de Angular]
+- [Desarrollo de software ágil](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/1.%20Desarrollo%20de%20software%20%C3%A1gil)
+- [Java BE Básico](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/tree/main/2.%20Java%20backend%20I)
+- Java intermedio
+- Fundamentos de Angular
 
 
