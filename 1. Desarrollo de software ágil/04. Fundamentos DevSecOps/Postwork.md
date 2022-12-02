@@ -69,6 +69,6 @@ unzip coming-soon-evening-html.zip
 
 Estas son las evidencias del postwork 4: 
 
-[![Evidencia 1](https://photos.app.goo.gl/BZY3tqUbs4TT6AVn9)](https://photos.app.goo.gl/BZY3tqUbs4TT6AVn9)
+[Evidencia 1](https://photos.app.goo.gl/BZY3tqUbs4TT6AVn9)
 
-[![Evidencia 2](https://photos.app.goo.gl/biKe96t35agkqDxk6)](https://photos.app.goo.gl/biKe96t35agkqDxk6)
+[Evidencia 2](https://photos.app.goo.gl/biKe96t35agkqDxk6)
