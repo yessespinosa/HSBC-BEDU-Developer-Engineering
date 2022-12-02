@@ -16,3 +16,7 @@ Para concluir con tu aprendizaje reforzar lo aprendido en la sesión con la sigu
 ##### Instrucciones
 1. Lee detenidamente las instrucciones planteadas y realiza el ejercicio.
 2. Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
+
+#### [Enlace a video de actividad 1](https://www.youtube.com/watch?v=CP3DuSbpAvM)
+
+#### [Enlace a video de actividad 2](https://www.youtube.com/watch?v=XTzVqdHUguU)
