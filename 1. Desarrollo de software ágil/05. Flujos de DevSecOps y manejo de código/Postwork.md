@@ -24,3 +24,19 @@ En este PostWork vas a trabajar con 3 desarrolladores, cada uno con una copia de
 Donde el contenido de aplicacion.py tendra la siguientes lineas:
 
 ![Postwork1.5.4](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/05.%20Flujos%20de%20DevSecOps%20y%20manejo%20de%20c%C3%B3digo/images/1.5.Postwork4.JPG)
+
+8. Prepara el Commit para subirlo a Master/Main.
+
+![Postwork1.5.5](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/05.%20Flujos%20de%20DevSecOps%20y%20manejo%20de%20c%C3%B3digo/images/1.5.Postwork5.JPG)
+
+a. Recuerda el Objetivo: Tienes 3 desarrolladores, donde cada desarrollador estará trabajando en una característica(Feature) nueva de tu aplicación. Ya que tienes desarrollado tu plan de trabajo, vas a crear los branchs en el cliente de GitHub:
+
+9. Cada desarrollador deberá estar trabajando en su propia rama (branch). Quedando de la siguiente manera:
+
+9. Cada desarrollador deberá estar trabajando en su propia rama (branch). Quedando de la siguiente manera:
+
+Desarrollador 1:
+Característica: Botón de Inicio
+Rama: feature/botonIniciar
+
+[Postwork1.5.6](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/05.%20Flujos%20de%20DevSecOps%20y%20manejo%20de%20c%C3%B3digo/images/1.5.Postwork6.JPG)
