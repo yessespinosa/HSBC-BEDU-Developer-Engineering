@@ -1,0 +1,1 @@
+![Postwork1.5.1](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/05.%20Flujos%20de%20DevSecOps%20y%20manejo%20de%20c%C3%B3digo/images/1.5.Postwork1.JPG)
