@@ -27,7 +27,7 @@ http://127.0.0.1:8080/
 
 Y nos muestra la siguiente pantalla: 
 
-![Postwork1.7.2](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/07.%20Jenkins%20como%20herramienta%20b%C3%A1sica/images/1.7.2.Postwork.JPG)
+![Postwork1.7.3](https://github.com/yessespinosa/HSBC-BEDU-Developer-Engineering/blob/main/1.%20Desarrollo%20de%20software%20%C3%A1gil/07.%20Jenkins%20como%20herramienta%20b%C3%A1sica/images/1.7.3.Postwork.JPG)
 
 Obtenemos la contraseña: 
 ```sh
