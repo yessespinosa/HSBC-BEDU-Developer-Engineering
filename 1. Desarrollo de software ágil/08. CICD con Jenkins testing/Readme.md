@@ -6,4 +6,4 @@ Probar con anterioridad, ayuda a que los errores no lleguen hasta el ambiente de
 - Configurar maven y el pipeline para escanear las vulnerabilidades del proyecto usando Jenkins y el plugin de OWASP ZAP
 - Incorporar Quality Gates para aprobación entre fases del Pipeline Jenkins
 
-https://github.com/yessespinosa/pet-clinic/blob/main/README.md
+https://github.com/yessespinosa/pet-clinic
