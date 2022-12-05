@@ -1,11 +1,18 @@
+## Actividad 01
+
+1) Instalación y configuración de Jenkins
+
+Sigue las instrucciones del prework para que configures el contenedor que tienes corriendo, ejecuta por primera vez, instala plugins y configura variables de ambiente. Agrega un volumen a la ruta /var/jenkins_home, así las configuraciones que se hagan no se perderán al recrear el contenedor.
+
+2) Crear proyecto para tu microservicio
+
+Crea un nuevo proyecto en Jenkins, tipo pipeline, que clone el código fuente del repositorio de books y ejecute jenkins file que se encuentra en la carpeta de postwork para la lección y el repositorio.
+
+3) Prueba el proyecto de tu microservicio
+
+Ejecuta el proyecto y resuelve errores de ejecución.
 
 ### Desarrollo
-Probar con anterioridad, ayuda a que los errores no lleguen hasta el ambiente de producción. Para esto los pipelines nos ayudan para tener etapas en las que si una falla, las subsiguientes no se ejecutan. Si falla en la etapa de construcción o las pruebas, entonces una etapa de entrega a producción nunca sucedería.
-
-- Configurar el setup de java y maven con Jenkins
-- Configurar el Pipeline de despliegue para ejecutar pruebas estáticas con SonarQube
-- Configurar maven y el pipeline para escanear las vulnerabilidades del proyecto usando Jenkins y el plugin de OWASP ZAP
-- Incorporar Quality Gates para aprobación entre fases del Pipeline Jenkins
 
 Repositorio con archivos necesarios para instalación de jenkins: 
 
